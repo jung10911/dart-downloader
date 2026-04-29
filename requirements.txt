@@ -1,0 +1,4 @@
+streamlit
+OpenDartReader
+pandas
+xlsxwriter
